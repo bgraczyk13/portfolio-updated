@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Robert Graczyk",
+    "occupation": "Full-Stack Web Developer",
+    "description": "MERN Stack",
+    "image": "profile-1.jpg",
+    "bio": "Hi there! I am Robert Graczyk, Full-Stack Web Developer certified in the MERN stack. I have a passion for Frontend Development, but am capable of working on the Backend as well. When COVID-19 hit, I lost my previous job which forced me to consider a different Career path. Coding has always been something that has interested me, so I decided to take the leap and enroll in a Full-Stack Web Development program through Devmountain. I hope that my most Recent Works speak for themselves in regards to what I am capable of in this field. When you spend 12-14 hours a day for a few months on any given topic, that topic begins to become very clear. I have learned more in those 13 weeks than both my Highschool and College experiences combined. My problem solving skills and willingness to work together as a team would make me a good candidate for any company in need of a Junior Web Developer!",
+    "contactmessage": "Get in touch with me!",
+    "email": "robgrac94@gmail.com",
+    "phone": "716-316-2848",
+    "address": {
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "34232"
+    },
+    "website": "https://www.linkedin.com/in/robert-graczyk-623b9b208/",
+    "resumedownload": "https://docs.google.com/document/d/1iHkMLAh7hjgkFbpvrhsmAyhLXfQuq_QjVP2MVKCxKXk/edit?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqvvXXbEUYafPRSzzB1KEeQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bobby.graczyk.9/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/robert-graczyk-623b9b208/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/bgraczyk13",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "DevMountain - Remote",
+        "degree": "Certification, Full-Stack Web Development",
+        "graduated": "February 2021",
+        "description": "Fully immersive 13 week Web Development Bootcamp taught in the MERN stack."
+      }
+    ],
+    "work": [
+      {
+        "company": "Schmidt's Collision and Glass",
+        "title": "Body Repairman",
+        "years": "January 2015 - March 2020",
+        "description": "Performed tear down and inspection of vehicles while analyzing other conditions in need of repair. Replaced door skins, roof skins, quarter panels, etc."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML/CSS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "React",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Backend Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "LinkedIn Clone",
+        "category": "",
+        "image": "linkedinimg.png",
+        "url": "https://linkedin-clone-a5453.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://fletnix-clone.web.app/"
+      },
+      {
+        "title": "Google Clone",
+        "category": "",
+        "image": "google.png",
+        "url": "https://google-clone-brown-gamma.vercel.app/"
+      },
+      {
+        "title": "Portfolio site",
+        "category": "",
+        "image": "port.png",
+        "url": "https://react-portfolio-2f07e.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Certified in the MERN stack with a passion for Frontend Development. Well-versed in various technologies including HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB and SQL. Looking for an opportunity to showcase my skills and create something meaningful.",
+        "user": "#OpenToWork"
+      }
+    ]
+  }
+}
