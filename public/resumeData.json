@@ -4,7 +4,7 @@
     "occupation": "Full-Stack Web Developer",
     "description": "MERN Stack",
     "image": "profile-1.jpg",
-    "bio": "Hi there! I am Robert Graczyk, Full-Stack Web Developer certified in the MERN stack. I have a passion for Frontend Development, but am capable of working on the Backend as well. When COVID-19 hit, I lost my previous job which forced me to consider a different Career path. Coding has always been something that has interested me, so I decided to take the leap and enroll in a Full-Stack Web Development program through Devmountain. I hope that my most Recent Works speak for themselves in regards to what I am capable of in this field. When you spend 12-14 hours a day for a few months on any given topic, that topic begins to become very clear. I have learned more in those 13 weeks than both my Highschool and College experiences combined. My problem solving skills and willingness to work together as a team would make me a good candidate for any company in need of a Junior Web Developer!",
+    "bio": "Hi there! I am Robert Graczyk, Full-Stack Web Developer certified in the MERN stack. I have a passion for Frontend Development, but am capable of working on the Backend as well. When COVID-19 hit, I lost my previous job which forced me to consider a different Career path. Coding has always been something that has interested me, so I decided to take the leap and enroll in a Full-Stack Web Development program through Devmountain. I hope that my most Recent Works speak for themselves in regards to what I am capable of in this field! My problem solving skills and willingness to work together as a team would make me a good candidate for any company in need of a Junior Web Developer.",
     "contactmessage": "Get in touch with me!",
     "email": "robgrac94@gmail.com",
     "phone": "716-316-2848",
@@ -100,10 +100,10 @@
         "url": "https://google-clone-brown-gamma.vercel.app/"
       },
       {
-        "title": "Portfolio site",
+        "title": "Airbnb Clone",
         "category": "",
-        "image": "port.png",
-        "url": "https://react-portfolio-2f07e.web.app/"
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-taupe-xi.vercel.app/"
       }
     ]
   },
