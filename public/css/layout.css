@@ -335,7 +335,7 @@ ul#nav li.current a {
 
 #portfolio {
   background: #ebeeee;
-  padding-top: 60px;
+  padding-top: 90px;
   padding-bottom: 60px;
 }
 
@@ -365,8 +365,7 @@ ul#nav li.current a {
   transition: all 0.3s ease-in-out;
 }
 .portfolio-item .item-wrap a {
-  display: inline-flex;
-  position: relative;
+  display: block;
   cursor: pointer;
 }
 
@@ -414,7 +413,7 @@ ul#nav li.current a {
   margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
-  justify-content: center;
+  vertical-align: bottom;
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;
